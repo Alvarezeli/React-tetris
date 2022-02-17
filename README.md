@@ -1,4 +1,5 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a604a8d8-a599-479c-ad2e-193ab64710f4/deploy-status)](https://app.netlify.com/sites/tetris-elialvarez/deploys)
+# ¡Proba la app!
+Encontra el sitio deployado en: https://tetris-elialvarez.netlify.app!
 
 # Getting Started with Create React App
 
