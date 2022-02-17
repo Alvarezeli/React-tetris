@@ -3,7 +3,7 @@ Encontra el sitio deployado en: https://tetris-elialvarez.netlify.app!
 
 Presiona START y los tetrominos comenzarán a bajar o podrias acelerar su decenso con la fecla hacia abajo 👇, y si queres cambiar la forma del tetromino utiliza la fecha hacia arriba 👆. Tambien contiene los movimientos laterales con sus respectivas flechas.
 
-###¡A jugar!
+### ¡A jugar!
 
 # Para levantar el proyecto en tu terminal:
 
